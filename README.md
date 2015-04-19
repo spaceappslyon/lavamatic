@@ -1,7 +1,6 @@
 # lavamatic
 
-NASA Space Apps Challenge 2015 project
-https://2015.spaceappschallenge.org/project/lavamatic/
+NASA Space Apps Challenge 2015 project : https://2015.spaceappschallenge.org/project/lavamatic/
 
 ## Analysis
 
